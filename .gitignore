@@ -1,0 +1,12 @@
+# Raw data and outputs are too large for GitHub; download them from the City of Vancouver portal
+data/*
+!data/README.md
+output/
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
